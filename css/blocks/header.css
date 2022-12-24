@@ -39,29 +39,11 @@
     margin-left: 35px;
 }
 
-.header-login a {
+.header-login-link {
     color: #000;
     transition: color 0.2s ease;
 }
 
-.header-login a:hover {
+.header-login-link:hover {
     color: #01996D;
-}
-
-.btn, a.btn {
-    display: flex;
-    align-items: center;
-    background-color: #01996D;
-    height: 51px;
-    padding: 0 50px;
-    color: #FFF;
-    font-size: 20px;
-    font-weight: 400;
-    border-radius: 4px;
-    transition: opacity 0.2s ease;
-}
-
-.btn:hover, a.btn:hover {
-    opacity: 0.8;
-    color: #FFF;
 }
